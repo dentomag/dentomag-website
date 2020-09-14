@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Economica&display=swap');
+
+body {
+    font-family: 'Economica', sans-serif;
+}
+
 a:hover h3 {
     text-decoration-line: underline;
+}
+
+#logo {
+    transform: translateY(-50px);
+    transition: all 2.5s;
 }
